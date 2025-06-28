@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EngHossam7
-- 👀 I’m interested in Data Analysis|Data Science
+- 👀 I’m interested in Data Analysis and BI
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me eng.hosam.wardany@gmail.com
