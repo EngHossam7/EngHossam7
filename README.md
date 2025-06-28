@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EngHossam7
+- 👋 Hi, I’m Hossam Mahmoud
 - 👀 I’m interested in Data Analysis and BI
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Projects
